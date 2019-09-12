@@ -1,6 +1,6 @@
 # Assignment 1 - Getting started
 
-Student: *Honggang*, *Wang*
+Student: * Honggang*, * Wang*
 
 Potentially helpful resources:
 
